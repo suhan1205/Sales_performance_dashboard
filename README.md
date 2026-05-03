@@ -8,7 +8,7 @@ Indian cities using Microsoft Excel.
 
 ## Tools Used
 
-Microsoft Excel — Pivot Tables, Slicers, VLOOKUP, Charts
+Microsoft Excel — Pivot Tables, Slicers, Charts
 
 ## Key Insights
 
